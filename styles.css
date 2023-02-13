@@ -1,8 +1,25 @@
+body {
+    font-family: Arial; 
+}
+
+h1, h2, div {
+    text-align: center;
+}
+
 #frame {
     width: 500px;
     height: 500px;
 }
 
+<<<<<<< Updated upstream
 .orange {
     fill: orange;
+=======
+rect {
+    fill: darkblue;
+}
+
+.red {
+    fill: red;
+>>>>>>> Stashed changes
 }
