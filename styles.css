@@ -2,7 +2,11 @@ body {
     font-family: Arial; 
 }
 
-h1, h2, div {
+h1, h2 {
+    text-align: center;
+}
+
+.shapes {
     text-align: center;
 }
 
@@ -11,15 +15,14 @@ h1, h2, div {
     height: 500px;
 }
 
-<<<<<<< Updated upstream
 .orange {
     fill: orange;
-=======
+}
+
 rect {
     fill: darkblue;
 }
 
 .red {
     fill: red;
->>>>>>> Stashed changes
 }

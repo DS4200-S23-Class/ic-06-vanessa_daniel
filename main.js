@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-
-
 function colormouseover() {
     let circle = document.getElementById("mycircle");
 
@@ -8,7 +5,7 @@ function colormouseover() {
 }
 
 document.getElementById("mycircle").addEventListener('mouseover', colormouseover);
-=======
+
 // add event handler to button 
 document.getElementById("rectButton").addEventListener('click', buttonClicked);
 
@@ -19,4 +16,3 @@ function buttonClicked() {
 
 
 }
->>>>>>> Stashed changes
